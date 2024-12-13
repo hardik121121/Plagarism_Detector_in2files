@@ -34,9 +34,9 @@ A simple yet powerful Python-based plagiarism detection tool that compares two t
    
    **Example Output**:
    ```
-   🚨 Plagiarised Content is: 8.68%
-   📝 Sentence-Level Similarity: 42.11%
-   🔤 Word-Level Similarity: 23.33%
+   🚨 Plagiarised Content is: 88.24%
+   📝 Sentence-Level Similarity: 100.00%
+   🔤 Word-Level Similarity: 77.73%
    ```
 
 ## 🧠 How It Works
